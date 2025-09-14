@@ -1,0 +1,42 @@
+; ----------------------------------------
+; Ultimate PDF Editor - Commercial Installer
+; Version: 1.0
+; Author: Your Name
+; ----------------------------------------
+
+[Setup]
+AppName=Ultimate PDF Editor
+AppVersion=1.0
+DefaultDirName={pf}\UltimatePDFEditor
+DefaultGroupName=Ultimate PDF Editor
+OutputBaseFilename=UltimatePDFEditorInstaller
+Compression=lzma
+SolidCompression=yes
+WizardStyle=modern
+LicenseFile=C:\Users\venkatsr\Desktop\Python\PDFEditorProject\EULA.txt
+DisableStartupPrompt=yes
+AllowNoIcons=yes
+
+[Files]
+; Main executable
+Source: "C:\Users\venkatsr\Desktop\Python\PDFEditorProject\dist\pdf_editor_exe_ready.exe"; DestDir: "{app}"; Flags: ignoreversion
+
+; Quick Start guide
+Source: "C:\Users\venkatsr\Desktop\Python\PDFEditorProject\README_QuickStart.txt"; DestDir: "{app}"; Flags: ignoreversion
+
+
+
+
+[Icons]
+; Start Menu shortcut
+Name: "{group}\Ultimate PDF Editor"; Filename: "{app}\pdf_editor_exe_ready.exe"; IconFilename: "{app}\logo.ico"
+
+; Desktop shortcut (optional)
+Name: "{userdesktop}\Ultimate PDF Editor"; Filename: "{app}\pdf_editor_exe_ready.exe"; IconFilename: "{app}\logo.ico"; Tasks: desktopicon
+
+[Tasks]
+Name: desktopicon; Description: "Create a &desktop icon"; GroupDescription: "Additional icons:"; Flags: unchecked
+
+[Messages]
+WelcomeLabel1=Welcome to the Ultimate PDF Editor Setup Wizard!
+LicenseAccepted=I accept the terms in the License Agreement

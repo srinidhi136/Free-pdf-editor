@@ -1,0 +1,41 @@
+END USER LICENSE AGREEMENT (EULA)
+---------------------------------
+
+IMPORTANT – READ CAREFULLY:
+
+This End User License Agreement (“Agreement”) is a legal agreement between you (individual or single entity) and [Your Company/Name] for the software “Ultimate PDF Editor” (“Software”).
+
+BY INSTALLING, COPYING, OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
+
+1. LICENSE GRANT
+   [Your Company/Name] grants you a non-exclusive, non-transferable license to use the Software on your computer(s) for personal or commercial purposes as permitted by this Agreement.
+
+2. RESTRICTIONS
+   You may NOT:
+   - Redistribute, sell, lease, rent, or sublicense the Software or any portion of it without written permission.
+   - Modify, reverse engineer, decompile, or disassemble the Software, except where allowed by law.
+   - Remove or alter any copyright, trademark, or proprietary notices.
+
+3. INTELLECTUAL PROPERTY
+   The Software, including all copyrights, patents, trademarks, and trade secrets, is the property of [Your Company/Name] and is protected by applicable intellectual property laws.
+
+4. WARRANTY DISCLAIMER
+   The Software is provided “AS IS” without warranty of any kind, either expressed or implied, including, but not limited to, warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+5. LIMITATION OF LIABILITY
+   In no event shall [Your Company/Name] be liable for any direct, indirect, incidental, special, or consequential damages arising out of the use or inability to use the Software.
+
+6. TERMINATION
+   This Agreement is effective until terminated. You may terminate it by destroying all copies of the Software. This Agreement will also terminate if you fail to comply with any terms herein.
+
+7. GOVERNING LAW
+   This Agreement shall be governed by and construed under the laws of [Your Country/State], without regard to its conflict of law provisions.
+
+8. ENTIRE AGREEMENT
+   This Agreement constitutes the entire agreement between you and [Your Company/Name] regarding the Software and supersedes all prior or contemporaneous agreements, communications, and proposals.
+
+---------------------------------
+By installing or using the Software, you acknowledge that you have read, understood, and agreed to be bound by this Agreement.
+
+Srinidhi Krishnan
+[14-09-2025]
